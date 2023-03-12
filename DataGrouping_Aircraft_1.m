@@ -1,4 +1,4 @@
-%%This code groups data based on the aircraft in a separate table (T1) called
+%%PART1 This code groups data based on the aircraft in a separate table (T1) called
 %%trajectories 
 %setting up some variables
 rows = height(T1);
